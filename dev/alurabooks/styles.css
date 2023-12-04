@@ -1,0 +1,15 @@
+
+
+:root {
+
+    --cor-de-fundo:#ffffff;
+    --branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+img {
+    width: 2%;
+}
